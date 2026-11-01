@@ -16,6 +16,6 @@ Claude Code: copie a pasta para `~/.claude/skills/` (uso pessoal) ou para `.clau
 
     cp -r roblox-thumbnail-analyzer ~/.claude/skills/
 
-Claude.ai: compacte a pasta em um .zip e envie em Configurações → Capacidades → Skills.
+Claude.ai: compacte a pasta em um .zip e envie pela seção de Skills nas configurações.
 
 As imagens analisadas não estão no repositório porque pertencem aos criadores. Os links diretos estão no inventário.
